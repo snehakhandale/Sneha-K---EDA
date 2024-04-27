@@ -21,8 +21,5 @@ This project consists of Python scripts for web scraping data from IMDb's top 25
 - `imdb_top_250_movies.py`: Python script for scraping IMDb's top 250 movies.
 - `us_states_population.py`: Python script for scraping US states and territories population data.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 Sneha Khandale/snehakhandale
